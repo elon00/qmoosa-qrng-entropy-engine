@@ -1,0 +1,11 @@
+{
+  "ci": "not-run",
+  "flagship": "elon00/qmoosa-1000",
+  "implementation": "not-verified",
+  "manifest_sha256": "b0b598324334369b29eb5ffa06f884da47b1ceeb4354d1e3d1faab65dd940a70",
+  "original_plan_id": "503f9c53dc6236001cb40fea5399fa4e2b2458aaafed29d0ca68ef3da189d3b8",
+  "production_certification": "not-verified",
+  "security_approval": "not-verified",
+  "source_manifest": "Antigravity v3.0.0",
+  "stage": "basic-scaffold"
+}
