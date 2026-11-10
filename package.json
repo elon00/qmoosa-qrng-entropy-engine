@@ -1,0 +1,12 @@
+{
+  "name": "@qmoosa/qrng-entropy-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline signed entropy-beacon verification; no QRNG hardware or quantum-source attestation",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "check": "node --check src/beacon-verifier.mjs && node --check test/beacon-verifier.test.mjs"
+  }
+}
