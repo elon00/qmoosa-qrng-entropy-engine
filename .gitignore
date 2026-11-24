@@ -6,3 +6,6 @@ __pycache__/
 .venv/
 node_modules/
 dist/
+
+# Lean 4 build artifacts
+lean_verify/.lake/
